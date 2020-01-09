@@ -1,0 +1,40 @@
+
+body{
+    background: #ccc;
+}
+
+
+#contenido{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+
+
+#contenido ul li{
+    width: 1300px;
+    margin: 0 auto;
+    text-align: center;
+    display: inline-block;
+}
+
+#contenido a{
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    background: aqua;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+/*estilos de HOME*/
+
+#homeContenido{
+    margin: 1300px;
+    margin: 0 auto;
+    text-align: center;
+}
